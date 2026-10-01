@@ -1,0 +1,52 @@
+# StuxAPIs Status: https://status.stuxapis.net
+# Checked every 5 minutes by .github/workflows/status.yml, using GitHup:
+# https://github.com/StuxGroup/GitHup
+site:
+  name: StuxAPIs Status
+  description: Live status of StuxAPIs' APIs and services, checked every 5 minutes.
+  logo: https://global.media.stuxapis.net/logo.png
+  favicon: https://global.media.stuxapis.net/icon.png
+  accent: "#BF7FF9"
+  url: https://status.stuxapis.net/
+  footer_links:
+    - label: StuxAPIs Services
+      url: https://services.stuxapis.net/
+    - label: Report a problem
+      url: https://github.com/StuxAPIs/Status/issues/new
+
+legal:
+  operator: StuxAPIs
+  company: "StuxAPIs is operated by Stux Group Ltd, a company registered in England and Wales (company no. 13160574), registered office 82a James Carter Road, Mildenhall, England, IP28 7DE."
+  contact: legal@stuxapis.net
+  host: GitHub Pages
+  effective: 1 October 2026
+
+defaults:
+  timeout: 15
+  retries: 2
+  max_response_time: 3000
+
+# Monitors are grouped into sections on the page, each with a combined status.
+# Slugs come from the names, so moving a monitor between groups keeps its history.
+# Not monitored because they do not serve yet: Lunar Calendar (lunarcalendar.stuxapis.net)
+# and GithubStats (githubstats.stuxapis.net) both answer 404, and stuxapis.net itself does not respond.
+groups:
+  - name: StuxAPIs
+    description: The StuxAPIs services and libraries. Lunar Calendar and GithubStats are not listed because their sites do not serve yet.
+    monitors:
+      - name: SeasonalOverlaysLibrary
+        url: https://seasonaloverlayslibrary.stuxapis.net/
+      - name: Kittens
+        url: https://kittens.stuxapis.net/
+      - name: SecretGen
+        url: https://secretgen.stuxapis.net/
+
+  - name: Shared
+    description: The media everything StuxAPIs runs relies on.
+    monitors:
+      - name: StuxAPIs Media CDN
+        url: https://global.media.stuxapis.net/icon.png
+        description: Shared logos and images used across every StuxAPIs site
+
+incidents:
+  labels: [status]
