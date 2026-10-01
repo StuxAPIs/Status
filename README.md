@@ -18,7 +18,14 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 <!-- githup:start -->
 <!-- This table is written by GitHup (https://github.com/StuxGroup/GitHup); edits here are overwritten. -->
 
-*No data yet. The first check fills this in.*
+**No data yet** · [Live status page](https://status.stuxapis.net/)
+
+| Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
+| ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
+| StuxAPIs | [SeasonalOverlaysLibrary](https://seasonaloverlayslibrary.stuxapis.net/) | No data | n/a | n/a | n/a | n/a |
+| StuxAPIs | [Kittens](https://kittens.stuxapis.net/) | No data | n/a | n/a | n/a | n/a |
+| StuxAPIs | [SecretGen](https://secretgen.stuxapis.net/) | No data | n/a | n/a | n/a | n/a |
+| Shared | [StuxAPIs Media CDN](https://global.media.stuxapis.net/icon.png) | No data | n/a | n/a | n/a | n/a |
 <!-- githup:end -->
 
 ## What's monitored
