@@ -25,6 +25,7 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 | StuxAPIs | [SeasonalOverlaysLibrary](https://seasonaloverlayslibrary.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 200 ms |
 | StuxAPIs | [Kittens](https://kittens.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 332 ms |
 | StuxAPIs | [SecretGen](https://secretgen.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 341 ms |
+| StuxAPIs | [GithubStats](https://githubstats.stuxapis.net/) | No data | n/a | n/a | n/a | n/a |
 | Shared | [StuxAPIs Media CDN](https://global.media.stuxapis.net/icon.png) | Up | 100.00% | 100.00% | 100.00% | 271 ms |
 <!-- githup:end -->
 
