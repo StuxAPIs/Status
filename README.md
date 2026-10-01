@@ -18,14 +18,14 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 <!-- githup:start -->
 <!-- This table is written by GitHup (https://github.com/StuxGroup/GitHup); edits here are overwritten. -->
 
-**No data yet** · [Live status page](https://status.stuxapis.net/)
+**All systems operational** · [Live status page](https://status.stuxapis.net/)
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| StuxAPIs | [SeasonalOverlaysLibrary](https://seasonaloverlayslibrary.stuxapis.net/) | No data | n/a | n/a | n/a | n/a |
-| StuxAPIs | [Kittens](https://kittens.stuxapis.net/) | No data | n/a | n/a | n/a | n/a |
-| StuxAPIs | [SecretGen](https://secretgen.stuxapis.net/) | No data | n/a | n/a | n/a | n/a |
-| Shared | [StuxAPIs Media CDN](https://global.media.stuxapis.net/icon.png) | No data | n/a | n/a | n/a | n/a |
+| StuxAPIs | [SeasonalOverlaysLibrary](https://seasonaloverlayslibrary.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 200 ms |
+| StuxAPIs | [Kittens](https://kittens.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 332 ms |
+| StuxAPIs | [SecretGen](https://secretgen.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 341 ms |
+| Shared | [StuxAPIs Media CDN](https://global.media.stuxapis.net/icon.png) | Up | 100.00% | 100.00% | 100.00% | 271 ms |
 <!-- githup:end -->
 
 ## What's monitored
