@@ -28,11 +28,11 @@ defaults:
 
 # Monitors are grouped into sections on the page, each with a combined status.
 # Slugs come from the names, so moving a monitor between groups keeps its history.
-# Not monitored because they do not serve yet: Lunar Calendar (lunarcalendar.stuxapis.net)
-# and GithubStats (githubstats.stuxapis.net) both answer 404, and stuxapis.net itself does not respond.
+# Not monitored because it does not serve yet: Lunar Calendar (lunarcalendar.stuxapis.net) answers 404,
+# and stuxapis.net itself does not respond.
 groups:
   - name: StuxAPIs
-    description: The StuxAPIs services and libraries. Lunar Calendar and GithubStats are not listed because their sites do not serve yet.
+    description: The StuxAPIs services and libraries. Lunar Calendar is not listed because its site does not serve yet.
     monitors:
       - name: SeasonalOverlaysLibrary
         url: https://seasonaloverlayslibrary.stuxapis.net/
@@ -40,6 +40,9 @@ groups:
         url: https://kittens.stuxapis.net/
       - name: SecretGen
         url: https://secretgen.stuxapis.net/
+      - name: GithubStats
+        url: https://githubstats.stuxapis.net/
+        description: GitHub statistics as an API (the root redirects to its docs)
 
   - name: Shared
     description: The media everything StuxAPIs runs relies on.

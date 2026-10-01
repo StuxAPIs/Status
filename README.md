@@ -32,9 +32,9 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 
 Every 5 minutes (when GitHub runs the schedule late, a run checks up to 4 times, 5 minutes apart, to fill the gap), GitHup checks each monitor in [`.githup.yml`](.githup.yml):
 
-- **StuxAPIs:** SeasonalOverlaysLibrary, Kittens and SecretGen
+- **StuxAPIs:** SeasonalOverlaysLibrary, Kittens, SecretGen and GithubStats
 - **Shared:** the StuxAPIs media CDN
-- Lunar Calendar and GithubStats are not monitored yet, because their sites do not serve
+- Lunar Calendar is not monitored yet, because its site does not serve
 
 To add a site, add a monitor to the right group there (or a new group). A group can also hold `links:` instead of monitors, for sites that should be listed but not checked.
 

@@ -3,6 +3,12 @@
 All notable changes to StuxAPIs' status page (status.stuxapis.net) are documented here. It
 follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v1.0.2
+
+### Added
+
+- A GithubStats monitor (githubstats.stuxapis.net), now that its site is live
+
 ## v1.0.1
 
 ### Changed
