@@ -22,10 +22,10 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| StuxAPIs | [SeasonalOverlaysLibrary](https://seasonaloverlayslibrary.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 230 ms |
-| StuxAPIs | [Kittens](https://kittens.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 306 ms |
-| StuxAPIs | [SecretGen](https://secretgen.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 454 ms |
-| StuxAPIs | [GithubStats](https://githubstats.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 362 ms |
+| StuxAPIs | [SeasonalOverlaysLibrary](https://seasonaloverlayslibrary.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 229 ms |
+| StuxAPIs | [Kittens](https://kittens.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 302 ms |
+| StuxAPIs | [SecretGen](https://secretgen.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 464 ms |
+| StuxAPIs | [GithubStats](https://githubstats.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 338 ms |
 | Shared | [StuxAPIs Media CDN](https://global.media.stuxapis.net/icon.png) | Up | 100.00% | 100.00% | 100.00% | 278 ms |
 <!-- githup:end -->
 
