@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://global.media.stuxapis.net/logo.png" height="100" alt="StuxAPIs Logo">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stuxapis.net/logo-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stuxapis.net/logo-dark.png"><img src="https://global.media.stuxapis.net/logo-dark.png" height="100" alt="StuxAPIs Logo"></picture>
 </p>
 
 # Status
@@ -89,4 +89,4 @@ redistribution, see [LICENSE](LICENSE).
 
 *Powering the Stux.Group Ecosystem | Part of the Stux.Group Brand of Companies.*
 
-*Built & Maintained by <img src="https://global.media.stuxapis.net/icon.png" height="14" alt="StuxAPIs" valign="middle"> [StuxAPIs](https://github.com/StuxAPIs), powered by [GitHup](https://githup.stux.group).*
+*Built & Maintained by <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stuxapis.net/icon-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stuxapis.net/icon-dark.png"><img src="https://global.media.stuxapis.net/icon-dark.png" height="14" alt="StuxAPIs" valign="middle"></picture> [StuxAPIs](https://github.com/StuxAPIs), powered by [GitHup](https://githup.stux.group).*
