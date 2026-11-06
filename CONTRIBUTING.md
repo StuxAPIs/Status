@@ -27,6 +27,12 @@ You need Python 3.11+ and nothing else.
   Keep it accurate.
 - **Don't edit `data/` by hand.** It belongs to GitHup and the workflow.
 
+## Branches
+
+- Work on `test`, or on a branch off it. Never push to `main`
+- Changes reach `main` only through a pull request from `test` into `main`, which needs CI to pass and is reviewed and merged by Leo
+- Release commits and tags are made on `test` (`git push origin test --tags`) and take effect when the pull request is merged. The status page is built from `main`.
+
 ## Versioning
 
 This project uses [Date Versioning](https://datevers.ing). To release:
