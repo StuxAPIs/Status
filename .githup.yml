@@ -4,8 +4,9 @@
 site:
   name: StuxAPIs Status
   description: Live status of StuxAPIs' APIs and services, checked every 5 minutes.
-  logo: https://global.media.stuxapis.net/logo.png
-  favicon: https://global.media.stuxapis.net/icon.png
+  # Its own badge icon (the StuxAPIs mark with a heartbeat badge), as on services.stuxapis.net.
+  logo: https://services.stuxapis.net/assets/img/services/stuxapis-status.png
+  favicon: https://services.stuxapis.net/assets/img/services/stuxapis-status.png
   accent: "#BF7FF9"
   url: https://status.stuxapis.net/
   footer_links:
