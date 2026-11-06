@@ -1,9 +1,20 @@
 # Changelog
 
-All notable changes to StuxAPIs' status page (status.stuxapis.net) are documented here. It
-follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+All notable changes to StuxAPIs' status page (status.stuxapis.net) are documented here.
 
 Since v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used Semantic Versioning.
+
+## v26.11.06
+
+### Changed
+
+- The page's logo and favicon are its own badge icon (the StuxAPIs mark with a heartbeat badge, as on
+  services.stuxapis.net) rather than the plain StuxAPIs logo and icon. The README's header too, now titled
+  StuxAPIs Status
+
+### Fixed
+
+- The changelog intro no longer also says the project follows Semantic Versioning
 
 ## v26.10.23
 

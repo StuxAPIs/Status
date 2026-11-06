@@ -1,8 +1,8 @@
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stuxapis.net/logo-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stuxapis.net/logo-dark.png"><img src="https://global.media.stuxapis.net/logo-dark.png" height="100" alt="StuxAPIs Logo"></picture>
+  <img src="https://services.stuxapis.net/assets/img/services/stuxapis-status.png" height="100" alt="StuxAPIs Status icon">
 </p>
 
-# Status
+# StuxAPIs Status
 
 ### *Live status of StuxAPIs' APIs and services, powered by [GitHup](https://githup.stux.group).*
 
