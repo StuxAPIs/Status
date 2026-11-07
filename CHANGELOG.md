@@ -4,6 +4,12 @@ All notable changes to StuxAPIs' status page (status.stuxapis.net) are documente
 
 Since v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used Semantic Versioning.
 
+## v26.11.07
+
+### Added
+
+- A FlashView monitor (flashview.stuxapis.net) in the StuxAPIs group, and FlashView in the README's list of what's monitored
+
 ## v26.11.06-1
 
 ### Added
