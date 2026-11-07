@@ -33,7 +33,7 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 
 Every 5 minutes (when GitHub runs the schedule late, a run checks up to 4 times, 5 minutes apart, to fill the gap), GitHup checks each monitor in [`.githup.yml`](.githup.yml):
 
-- **StuxAPIs:** the StuxAPIs website, StuxAPIs Services, SeasonalOverlaysLibrary, Kittens, SecretGen and GithubStats
+- **StuxAPIs:** the StuxAPIs website, StuxAPIs Services, SeasonalOverlaysLibrary, Kittens, SecretGen, FlashView and GithubStats
 - **Templates:** StuxAPIs Soonpage, Maintenancepage and Servicepage (each live as a preview), and the GitHub Pages redirect
 - **Shared:** the StuxAPIs media CDN
 - Lunar Calendar is not monitored yet, because its site does not serve

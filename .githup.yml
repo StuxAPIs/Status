@@ -46,6 +46,9 @@ groups:
         url: https://kittens.stuxapis.net/
       - name: SecretGen
         url: https://secretgen.stuxapis.net/
+      - name: FlashView
+        url: https://flashview.stuxapis.net/
+        description: Plays SWF (Flash) files in the browser with a self-hosted Ruffle
       - name: GithubStats
         url: https://githubstats.stuxapis.net/
         description: GitHub statistics as an API (the root redirects to its docs)
