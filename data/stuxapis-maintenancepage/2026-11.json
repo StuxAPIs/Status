@@ -1,4 +1,5 @@
 {"monitor":"stuxapis-maintenancepage","month":"2026-11","fields":["t","status","code","ms"],"checks":[
 [1794057256,"up",200,168],
-[1794057556,"up",200,225]
+[1794057556,"up",200,225],
+[1794057856,"up",200,91]
 ]}
