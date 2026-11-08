@@ -4,6 +4,12 @@ All notable changes to StuxAPIs' status page (status.stuxapis.net) are documente
 
 Since v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used Semantic Versioning.
 
+## v26.11.08
+
+### Changed
+
+- Says the status is "checked regularly", not "every 5 minutes": the site description in `.githup.yml` and the README. GitHub runs the 5-minute schedule best-effort and often much less often; the status page itself now shows the real measured rhythm. The `.githup.yml` comment says the workflow asks for a check every 5 minutes, best-effort. The schedule itself is unchanged
+
 ## v26.11.07
 
 ### Added

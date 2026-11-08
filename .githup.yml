@@ -1,9 +1,9 @@
 # StuxAPIs Status: https://status.stuxapis.net
-# Checked every 5 minutes by .github/workflows/status.yml, using GitHup:
+# Asks GitHub for a check every 5 minutes (best-effort; GitHub often runs it less often) - .github/workflows/status.yml, using GitHup:
 # https://github.com/StuxGroup/GitHup
 site:
   name: StuxAPIs Status
-  description: Live status of StuxAPIs' APIs and services, checked every 5 minutes.
+  description: Live status of StuxAPIs' APIs and services, checked regularly.
   # Its own badge icon (the StuxAPIs mark with a heartbeat badge), as on services.stuxapis.net.
   logo: https://services.stuxapis.net/assets/img/services/stuxapis-status.png
   favicon: https://services.stuxapis.net/assets/img/services/stuxapis-status.png
