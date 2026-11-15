@@ -4,6 +4,12 @@ All notable changes to StuxAPIs' status page (status.stuxapis.net) are documente
 
 Since v26.10.23 this project uses [Date Versioning](https://datevers.ing) (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used Semantic Versioning.
 
+## v26.11.15-1
+
+### Changed
+
+- The comment on the 5-minute schedule in `.github/workflows/status.yml` now says it asks GitHub for a check every 5 minutes, best-effort, and that GitHub often runs it less often, instead of "may run it a little late". The schedule itself is unchanged
+
 ## v26.11.15
 
 ### Added
