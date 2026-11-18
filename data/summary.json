@@ -1,7 +1,7 @@
 {
  "version": 1,
  "generator": "GitHup",
- "updated": 1795010911,
+ "updated": 1795028722,
  "name": "StuxAPIs Status",
  "status": "up",
  "monitors": [
@@ -11,8 +11,8 @@
    "url": "https://stuxapis.net/",
    "status": "up",
    "code": 200,
-   "ms": 12931,
-   "checked_at": 1795010864,
+   "ms": 351,
+   "checked_at": 1795028722,
    "last_change": {
     "at": 1794452059,
     "from": "down",
@@ -20,23 +20,23 @@
    },
    "uptime": {
     "24h": 100.0,
-    "7d": 97.916,
-    "30d": 98.757,
-    "90d": 98.757,
-    "all": 98.757
+    "7d": 97.86,
+    "30d": 98.761,
+    "90d": 98.761,
+    "all": 98.761
    },
    "avg_ms": {
-    "24h": 1311,
-    "7d": 585,
-    "30d": 582,
-    "90d": 582,
-    "all": 582
+    "24h": 1272,
+    "7d": 593,
+    "30d": 581,
+    "90d": 581,
+    "all": 581
    },
    "totals": {
-    "checks": 322,
-    "available": 318,
-    "ms_sum": 185046,
-    "ms_n": 318,
+    "checks": 323,
+    "available": 319,
+    "ms_sum": 185397,
+    "ms_n": 319,
     "first": 1794057256
    },
    "incident": null
@@ -47,224 +47,8 @@
    "url": "https://services.stuxapis.net/",
    "status": "up",
    "code": 200,
-   "ms": 155,
-   "checked_at": 1795010864,
-   "last_change": {
-    "at": 1794057256,
-    "from": null,
-    "to": "up"
-   },
-   "uptime": {
-    "24h": 100.0,
-    "7d": 100.0,
-    "30d": 100.0,
-    "90d": 100.0,
-    "all": 100.0
-   },
-   "avg_ms": {
-    "24h": 220,
-    "7d": 201,
-    "30d": 206,
-    "90d": 206,
-    "all": 206
-   },
-   "totals": {
-    "checks": 322,
-    "available": 322,
-    "ms_sum": 66382,
-    "ms_n": 322,
-    "first": 1794057256
-   },
-   "incident": null
-  },
-  {
-   "slug": "seasonaloverlayslibrary",
-   "name": "SeasonalOverlaysLibrary",
-   "url": "https://seasonaloverlayslibrary.stuxapis.net/",
-   "status": "up",
-   "code": 200,
-   "ms": 108,
-   "checked_at": 1795010864,
-   "last_change": {
-    "at": 1790864334,
-    "from": null,
-    "to": "up"
-   },
-   "uptime": {
-    "24h": 100.0,
-    "7d": 100.0,
-    "30d": 100.0,
-    "90d": 100.0,
-    "all": 100.0
-   },
-   "avg_ms": {
-    "24h": 228,
-    "7d": 213,
-    "30d": 211,
-    "90d": 208,
-    "all": 208
-   },
-   "totals": {
-    "checks": 1672,
-    "available": 1672,
-    "ms_sum": 347411,
-    "ms_n": 1672,
-    "first": 1790864334
-   },
-   "incident": null
-  },
-  {
-   "slug": "kittens",
-   "name": "Kittens",
-   "url": "https://kittens.stuxapis.net/",
-   "status": "up",
-   "code": 200,
-   "ms": 419,
-   "checked_at": 1795010864,
-   "last_change": {
-    "at": 1790864334,
-    "from": null,
-    "to": "up"
-   },
-   "uptime": {
-    "24h": 100.0,
-    "7d": 100.0,
-    "30d": 100.0,
-    "90d": 100.0,
-    "all": 100.0
-   },
-   "avg_ms": {
-    "24h": 437,
-    "7d": 347,
-    "30d": 319,
-    "90d": 320,
-    "all": 320
-   },
-   "totals": {
-    "checks": 1672,
-    "available": 1672,
-    "ms_sum": 535014,
-    "ms_n": 1672,
-    "first": 1790864334
-   },
-   "incident": null
-  },
-  {
-   "slug": "secretgen",
-   "name": "SecretGen",
-   "url": "https://secretgen.stuxapis.net/",
-   "status": "up",
-   "code": 200,
-   "ms": 434,
-   "checked_at": 1795010864,
-   "last_change": {
-    "at": 1790864334,
-    "from": null,
-    "to": "up"
-   },
-   "uptime": {
-    "24h": 100.0,
-    "7d": 100.0,
-    "30d": 100.0,
-    "90d": 100.0,
-    "all": 100.0
-   },
-   "avg_ms": {
-    "24h": 572,
-    "7d": 470,
-    "30d": 457,
-    "90d": 452,
-    "all": 452
-   },
-   "totals": {
-    "checks": 1672,
-    "available": 1672,
-    "ms_sum": 755459,
-    "ms_n": 1672,
-    "first": 1790864334
-   },
-   "incident": null
-  },
-  {
-   "slug": "flashview",
-   "name": "FlashView",
-   "url": "https://flashview.stuxapis.net/",
-   "status": "up",
-   "code": 200,
-   "ms": 150,
-   "checked_at": 1795010864,
-   "last_change": {
-    "at": 1794075096,
-    "from": null,
-    "to": "up"
-   },
-   "uptime": {
-    "24h": 100.0,
-    "7d": 100.0,
-    "30d": 100.0,
-    "90d": 100.0,
-    "all": 100.0
-   },
-   "avg_ms": {
-    "24h": 255,
-    "7d": 222,
-    "30d": 224,
-    "90d": 224,
-    "all": 224
-   },
-   "totals": {
-    "checks": 310,
-    "available": 310,
-    "ms_sum": 69562,
-    "ms_n": 310,
-    "first": 1794075096
-   },
-   "incident": null
-  },
-  {
-   "slug": "githubstats",
-   "name": "GithubStats",
-   "url": "https://githubstats.stuxapis.net/",
-   "status": "up",
-   "code": 200,
-   "ms": 347,
-   "checked_at": 1795010864,
-   "last_change": {
-    "at": 1790870537,
-    "from": null,
-    "to": "up"
-   },
-   "uptime": {
-    "24h": 100.0,
-    "7d": 100.0,
-    "30d": 100.0,
-    "90d": 100.0,
-    "all": 100.0
-   },
-   "avg_ms": {
-    "24h": 415,
-    "7d": 353,
-    "30d": 336,
-    "90d": 335,
-    "all": 335
-   },
-   "totals": {
-    "checks": 1668,
-    "available": 1668,
-    "ms_sum": 559148,
-    "ms_n": 1668,
-    "first": 1790870537
-   },
-   "incident": null
-  },
-  {
-   "slug": "stuxapis-soonpage",
-   "name": "StuxAPIs Soonpage",
-   "url": "https://soonpage.stuxapis.net/",
-   "status": "up",
-   "code": 200,
-   "ms": 173,
-   "checked_at": 1795010864,
+   "ms": 283,
+   "checked_at": 1795028722,
    "last_change": {
     "at": 1794057256,
     "from": null,
@@ -279,136 +63,28 @@
    },
    "avg_ms": {
     "24h": 222,
-    "7d": 217,
-    "30d": 217,
-    "90d": 217,
-    "all": 217
+    "7d": 202,
+    "30d": 206,
+    "90d": 206,
+    "all": 206
    },
    "totals": {
-    "checks": 322,
-    "available": 322,
-    "ms_sum": 69765,
-    "ms_n": 322,
+    "checks": 323,
+    "available": 323,
+    "ms_sum": 66665,
+    "ms_n": 323,
     "first": 1794057256
    },
    "incident": null
   },
   {
-   "slug": "stuxapis-maintenancepage",
-   "name": "StuxAPIs Maintenancepage",
-   "url": "https://maintenancepage.stuxapis.net/",
+   "slug": "seasonaloverlayslibrary",
+   "name": "SeasonalOverlaysLibrary",
+   "url": "https://seasonaloverlayslibrary.stuxapis.net/",
    "status": "up",
    "code": 200,
-   "ms": 93,
-   "checked_at": 1795010864,
-   "last_change": {
-    "at": 1794057256,
-    "from": null,
-    "to": "up"
-   },
-   "uptime": {
-    "24h": 100.0,
-    "7d": 100.0,
-    "30d": 100.0,
-    "90d": 100.0,
-    "all": 100.0
-   },
-   "avg_ms": {
-    "24h": 141,
-    "7d": 137,
-    "30d": 145,
-    "90d": 145,
-    "all": 145
-   },
-   "totals": {
-    "checks": 322,
-    "available": 322,
-    "ms_sum": 46654,
-    "ms_n": 322,
-    "first": 1794057256
-   },
-   "incident": null
-  },
-  {
-   "slug": "stuxapis-servicepage",
-   "name": "StuxAPIs Servicepage",
-   "url": "https://servicepage.stuxapis.net/",
-   "status": "up",
-   "code": 200,
-   "ms": 85,
-   "checked_at": 1795010864,
-   "last_change": {
-    "at": 1794057256,
-    "from": null,
-    "to": "up"
-   },
-   "uptime": {
-    "24h": 100.0,
-    "7d": 100.0,
-    "30d": 100.0,
-    "90d": 100.0,
-    "all": 100.0
-   },
-   "avg_ms": {
-    "24h": 147,
-    "7d": 138,
-    "30d": 144,
-    "90d": 144,
-    "all": 144
-   },
-   "totals": {
-    "checks": 322,
-    "available": 322,
-    "ms_sum": 46283,
-    "ms_n": 322,
-    "first": 1794057256
-   },
-   "incident": null
-  },
-  {
-   "slug": "stuxapis-github-pages-redirect",
-   "name": "StuxAPIs GitHub Pages Redirect",
-   "url": "https://stuxapis.github.io/",
-   "status": "up",
-   "code": 200,
-   "ms": 67,
-   "checked_at": 1795010864,
-   "last_change": {
-    "at": 1794057256,
-    "from": null,
-    "to": "up"
-   },
-   "uptime": {
-    "24h": 100.0,
-    "7d": 100.0,
-    "30d": 100.0,
-    "90d": 100.0,
-    "all": 100.0
-   },
-   "avg_ms": {
-    "24h": 130,
-    "7d": 104,
-    "30d": 102,
-    "90d": 102,
-    "all": 102
-   },
-   "totals": {
-    "checks": 322,
-    "available": 322,
-    "ms_sum": 33000,
-    "ms_n": 322,
-    "first": 1794057256
-   },
-   "incident": null
-  },
-  {
-   "slug": "stuxapis-media-cdn",
-   "name": "StuxAPIs Media CDN",
-   "url": "https://global.media.stuxapis.net/icon.png",
-   "status": "up",
-   "code": 200,
-   "ms": 85,
-   "checked_at": 1795010864,
+   "ms": 279,
+   "checked_at": 1795028722,
    "last_change": {
     "at": 1790864334,
     "from": null,
@@ -422,17 +98,341 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 250,
-    "7d": 207,
+    "24h": 231,
+    "7d": 213,
+    "30d": 211,
+    "90d": 208,
+    "all": 208
+   },
+   "totals": {
+    "checks": 1673,
+    "available": 1673,
+    "ms_sum": 347690,
+    "ms_n": 1673,
+    "first": 1790864334
+   },
+   "incident": null
+  },
+  {
+   "slug": "kittens",
+   "name": "Kittens",
+   "url": "https://kittens.stuxapis.net/",
+   "status": "up",
+   "code": 200,
+   "ms": 340,
+   "checked_at": 1795028722,
+   "last_change": {
+    "at": 1790864334,
+    "from": null,
+    "to": "up"
+   },
+   "uptime": {
+    "24h": 100.0,
+    "7d": 100.0,
+    "30d": 100.0,
+    "90d": 100.0,
+    "all": 100.0
+   },
+   "avg_ms": {
+    "24h": 433,
+    "7d": 347,
+    "30d": 319,
+    "90d": 320,
+    "all": 320
+   },
+   "totals": {
+    "checks": 1673,
+    "available": 1673,
+    "ms_sum": 535354,
+    "ms_n": 1673,
+    "first": 1790864334
+   },
+   "incident": null
+  },
+  {
+   "slug": "secretgen",
+   "name": "SecretGen",
+   "url": "https://secretgen.stuxapis.net/",
+   "status": "up",
+   "code": 200,
+   "ms": 742,
+   "checked_at": 1795028722,
+   "last_change": {
+    "at": 1790864334,
+    "from": null,
+    "to": "up"
+   },
+   "uptime": {
+    "24h": 100.0,
+    "7d": 100.0,
+    "30d": 100.0,
+    "90d": 100.0,
+    "all": 100.0
+   },
+   "avg_ms": {
+    "24h": 578,
+    "7d": 475,
+    "30d": 457,
+    "90d": 452,
+    "all": 452
+   },
+   "totals": {
+    "checks": 1673,
+    "available": 1673,
+    "ms_sum": 756201,
+    "ms_n": 1673,
+    "first": 1790864334
+   },
+   "incident": null
+  },
+  {
+   "slug": "flashview",
+   "name": "FlashView",
+   "url": "https://flashview.stuxapis.net/",
+   "status": "up",
+   "code": 200,
+   "ms": 288,
+   "checked_at": 1795028722,
+   "last_change": {
+    "at": 1794075096,
+    "from": null,
+    "to": "up"
+   },
+   "uptime": {
+    "24h": 100.0,
+    "7d": 100.0,
+    "30d": 100.0,
+    "90d": 100.0,
+    "all": 100.0
+   },
+   "avg_ms": {
+    "24h": 256,
+    "7d": 222,
+    "30d": 225,
+    "90d": 225,
+    "all": 225
+   },
+   "totals": {
+    "checks": 311,
+    "available": 311,
+    "ms_sum": 69850,
+    "ms_n": 311,
+    "first": 1794075096
+   },
+   "incident": null
+  },
+  {
+   "slug": "githubstats",
+   "name": "GithubStats",
+   "url": "https://githubstats.stuxapis.net/",
+   "status": "up",
+   "code": 200,
+   "ms": 689,
+   "checked_at": 1795028722,
+   "last_change": {
+    "at": 1790870537,
+    "from": null,
+    "to": "up"
+   },
+   "uptime": {
+    "24h": 100.0,
+    "7d": 100.0,
+    "30d": 100.0,
+    "90d": 100.0,
+    "all": 100.0
+   },
+   "avg_ms": {
+    "24h": 426,
+    "7d": 354,
+    "30d": 337,
+    "90d": 335,
+    "all": 335
+   },
+   "totals": {
+    "checks": 1669,
+    "available": 1669,
+    "ms_sum": 559837,
+    "ms_n": 1669,
+    "first": 1790870537
+   },
+   "incident": null
+  },
+  {
+   "slug": "stuxapis-soonpage",
+   "name": "StuxAPIs Soonpage",
+   "url": "https://soonpage.stuxapis.net/",
+   "status": "up",
+   "code": 200,
+   "ms": 261,
+   "checked_at": 1795028722,
+   "last_change": {
+    "at": 1794057256,
+    "from": null,
+    "to": "up"
+   },
+   "uptime": {
+    "24h": 100.0,
+    "7d": 100.0,
+    "30d": 100.0,
+    "90d": 100.0,
+    "all": 100.0
+   },
+   "avg_ms": {
+    "24h": 224,
+    "7d": 215,
+    "30d": 217,
+    "90d": 217,
+    "all": 217
+   },
+   "totals": {
+    "checks": 323,
+    "available": 323,
+    "ms_sum": 70026,
+    "ms_n": 323,
+    "first": 1794057256
+   },
+   "incident": null
+  },
+  {
+   "slug": "stuxapis-maintenancepage",
+   "name": "StuxAPIs Maintenancepage",
+   "url": "https://maintenancepage.stuxapis.net/",
+   "status": "up",
+   "code": 200,
+   "ms": 97,
+   "checked_at": 1795028722,
+   "last_change": {
+    "at": 1794057256,
+    "from": null,
+    "to": "up"
+   },
+   "uptime": {
+    "24h": 100.0,
+    "7d": 100.0,
+    "30d": 100.0,
+    "90d": 100.0,
+    "all": 100.0
+   },
+   "avg_ms": {
+    "24h": 140,
+    "7d": 135,
+    "30d": 145,
+    "90d": 145,
+    "all": 145
+   },
+   "totals": {
+    "checks": 323,
+    "available": 323,
+    "ms_sum": 46751,
+    "ms_n": 323,
+    "first": 1794057256
+   },
+   "incident": null
+  },
+  {
+   "slug": "stuxapis-servicepage",
+   "name": "StuxAPIs Servicepage",
+   "url": "https://servicepage.stuxapis.net/",
+   "status": "up",
+   "code": 200,
+   "ms": 108,
+   "checked_at": 1795028722,
+   "last_change": {
+    "at": 1794057256,
+    "from": null,
+    "to": "up"
+   },
+   "uptime": {
+    "24h": 100.0,
+    "7d": 100.0,
+    "30d": 100.0,
+    "90d": 100.0,
+    "all": 100.0
+   },
+   "avg_ms": {
+    "24h": 146,
+    "7d": 136,
+    "30d": 144,
+    "90d": 144,
+    "all": 144
+   },
+   "totals": {
+    "checks": 323,
+    "available": 323,
+    "ms_sum": 46391,
+    "ms_n": 323,
+    "first": 1794057256
+   },
+   "incident": null
+  },
+  {
+   "slug": "stuxapis-github-pages-redirect",
+   "name": "StuxAPIs GitHub Pages Redirect",
+   "url": "https://stuxapis.github.io/",
+   "status": "up",
+   "code": 200,
+   "ms": 97,
+   "checked_at": 1795028722,
+   "last_change": {
+    "at": 1794057256,
+    "from": null,
+    "to": "up"
+   },
+   "uptime": {
+    "24h": 100.0,
+    "7d": 100.0,
+    "30d": 100.0,
+    "90d": 100.0,
+    "all": 100.0
+   },
+   "avg_ms": {
+    "24h": 129,
+    "7d": 102,
+    "30d": 102,
+    "90d": 102,
+    "all": 102
+   },
+   "totals": {
+    "checks": 323,
+    "available": 323,
+    "ms_sum": 33097,
+    "ms_n": 323,
+    "first": 1794057256
+   },
+   "incident": null
+  },
+  {
+   "slug": "stuxapis-media-cdn",
+   "name": "StuxAPIs Media CDN",
+   "url": "https://global.media.stuxapis.net/icon.png",
+   "status": "up",
+   "code": 200,
+   "ms": 276,
+   "checked_at": 1795028722,
+   "last_change": {
+    "at": 1790864334,
+    "from": null,
+    "to": "up"
+   },
+   "uptime": {
+    "24h": 100.0,
+    "7d": 100.0,
+    "30d": 100.0,
+    "90d": 100.0,
+    "all": 100.0
+   },
+   "avg_ms": {
+    "24h": 251,
+    "7d": 205,
     "30d": 243,
     "90d": 263,
     "all": 263
    },
    "totals": {
-    "checks": 1672,
-    "available": 1672,
-    "ms_sum": 439272,
-    "ms_n": 1672,
+    "checks": 1673,
+    "available": 1673,
+    "ms_sum": 439548,
+    "ms_n": 1673,
     "first": 1790864334
    },
    "incident": null
@@ -440,7 +440,7 @@
  ],
  "cadence": {
   "window": 86400,
-  "checks": 24,
-  "every": 2710
+  "checks": 25,
+  "every": 3341
  }
 }
