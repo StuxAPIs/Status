@@ -1,7 +1,7 @@
 {
  "version": 1,
  "generator": "GitHup",
- "updated": 1795314700,
+ "updated": 1795315000,
  "name": "StuxAPIs Status",
  "status": "up",
  "monitors": [
@@ -11,8 +11,8 @@
    "url": "https://stuxapis.net/",
    "status": "up",
    "code": 200,
-   "ms": 231,
-   "checked_at": 1795314699,
+   "ms": 301,
+   "checked_at": 1795314999,
    "last_change": {
     "at": 1794452059,
     "from": "down",
@@ -21,22 +21,22 @@
    "uptime": {
     "24h": 100.0,
     "7d": 100.0,
-    "30d": 99.033,
-    "90d": 99.033,
-    "all": 99.033
+    "30d": 99.036,
+    "90d": 99.036,
+    "all": 99.036
    },
    "avg_ms": {
-    "24h": 265,
+    "24h": 267,
     "7d": 500,
-    "30d": 519,
-    "90d": 519,
-    "all": 519
+    "30d": 518,
+    "90d": 518,
+    "all": 518
    },
    "totals": {
-    "checks": 414,
-    "available": 410,
-    "ms_sum": 212615,
-    "ms_n": 410,
+    "checks": 415,
+    "available": 411,
+    "ms_sum": 212916,
+    "ms_n": 411,
     "first": 1794057256
    },
    "incident": null
@@ -47,8 +47,8 @@
    "url": "https://services.stuxapis.net/",
    "status": "up",
    "code": 200,
-   "ms": 114,
-   "checked_at": 1795314699,
+   "ms": 132,
+   "checked_at": 1795314999,
    "last_change": {
     "at": 1794057256,
     "from": null,
@@ -63,16 +63,16 @@
    },
    "avg_ms": {
     "24h": 143,
-    "7d": 178,
+    "7d": 177,
     "30d": 194,
     "90d": 194,
     "all": 194
    },
    "totals": {
-    "checks": 414,
-    "available": 414,
-    "ms_sum": 80511,
-    "ms_n": 414,
+    "checks": 415,
+    "available": 415,
+    "ms_sum": 80643,
+    "ms_n": 415,
     "first": 1794057256
    },
    "incident": null
@@ -83,8 +83,8 @@
    "url": "https://seasonaloverlayslibrary.stuxapis.net/",
    "status": "up",
    "code": 200,
-   "ms": 320,
-   "checked_at": 1795314699,
+   "ms": 340,
+   "checked_at": 1795314999,
    "last_change": {
     "at": 1790864334,
     "from": null,
@@ -98,17 +98,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 141,
-    "7d": 181,
+    "24h": 148,
+    "7d": 180,
     "30d": 207,
     "90d": 205,
     "all": 205
    },
    "totals": {
-    "checks": 1764,
-    "available": 1764,
-    "ms_sum": 361319,
-    "ms_n": 1764,
+    "checks": 1765,
+    "available": 1765,
+    "ms_sum": 361659,
+    "ms_n": 1765,
     "first": 1790864334
    },
    "incident": null
@@ -119,8 +119,8 @@
    "url": "https://kittens.stuxapis.net/",
    "status": "up",
    "code": 200,
-   "ms": 274,
-   "checked_at": 1795314699,
+   "ms": 331,
+   "checked_at": 1795314999,
    "last_change": {
     "at": 1790864334,
     "from": null,
@@ -134,17 +134,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 204,
+    "24h": 208,
     "7d": 293,
     "30d": 314,
     "90d": 316,
     "all": 316
    },
    "totals": {
-    "checks": 1764,
-    "available": 1764,
-    "ms_sum": 557122,
-    "ms_n": 1764,
+    "checks": 1765,
+    "available": 1765,
+    "ms_sum": 557453,
+    "ms_n": 1765,
     "first": 1790864334
    },
    "incident": null
@@ -155,8 +155,8 @@
    "url": "https://secretgen.stuxapis.net/",
    "status": "up",
    "code": 200,
-   "ms": 248,
-   "checked_at": 1795314699,
+   "ms": 443,
+   "checked_at": 1795314999,
    "last_change": {
     "at": 1790864334,
     "from": null,
@@ -170,17 +170,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 391,
-    "7d": 423,
+    "24h": 393,
+    "7d": 420,
     "30d": 446,
     "90d": 448,
     "all": 448
    },
    "totals": {
-    "checks": 1764,
-    "available": 1764,
-    "ms_sum": 789598,
-    "ms_n": 1764,
+    "checks": 1765,
+    "available": 1765,
+    "ms_sum": 790041,
+    "ms_n": 1765,
     "first": 1790864334
    },
    "incident": null
@@ -191,8 +191,8 @@
    "url": "https://flashview.stuxapis.net/",
    "status": "up",
    "code": 200,
-   "ms": 141,
-   "checked_at": 1795314699,
+   "ms": 158,
+   "checked_at": 1795314999,
    "last_change": {
     "at": 1794075096,
     "from": null,
@@ -213,10 +213,10 @@
     "all": 209
    },
    "totals": {
-    "checks": 402,
-    "available": 402,
-    "ms_sum": 83949,
-    "ms_n": 402,
+    "checks": 403,
+    "available": 403,
+    "ms_sum": 84107,
+    "ms_n": 403,
     "first": 1794075096
    },
    "incident": null
@@ -227,8 +227,8 @@
    "url": "https://githubstats.stuxapis.net/",
    "status": "up",
    "code": 200,
-   "ms": 263,
-   "checked_at": 1795314699,
+   "ms": 251,
+   "checked_at": 1795314999,
    "last_change": {
     "at": 1790870537,
     "from": null,
@@ -242,17 +242,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 277,
-    "7d": 319,
+    "24h": 276,
+    "7d": 318,
     "30d": 335,
     "90d": 333,
     "all": 333
    },
    "totals": {
-    "checks": 1760,
-    "available": 1760,
-    "ms_sum": 585309,
-    "ms_n": 1760,
+    "checks": 1761,
+    "available": 1761,
+    "ms_sum": 585560,
+    "ms_n": 1761,
     "first": 1790870537
    },
    "incident": null
@@ -263,8 +263,8 @@
    "url": "https://soonpage.stuxapis.net/",
    "status": "up",
    "code": 200,
-   "ms": 207,
-   "checked_at": 1795314699,
+   "ms": 330,
+   "checked_at": 1795314999,
    "last_change": {
     "at": 1794057256,
     "from": null,
@@ -278,17 +278,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 152,
-    "7d": 183,
+    "24h": 158,
+    "7d": 182,
     "30d": 202,
     "90d": 202,
     "all": 202
    },
    "totals": {
-    "checks": 414,
-    "available": 414,
-    "ms_sum": 83615,
-    "ms_n": 414,
+    "checks": 415,
+    "available": 415,
+    "ms_sum": 83945,
+    "ms_n": 415,
     "first": 1794057256
    },
    "incident": null
@@ -299,8 +299,8 @@
    "url": "https://maintenancepage.stuxapis.net/",
    "status": "up",
    "code": 200,
-   "ms": 117,
-   "checked_at": 1795314699,
+   "ms": 296,
+   "checked_at": 1795314999,
    "last_change": {
     "at": 1794057256,
     "from": null,
@@ -314,17 +314,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 101,
-    "7d": 116,
-    "30d": 136,
-    "90d": 136,
-    "all": 136
+    "24h": 107,
+    "7d": 117,
+    "30d": 137,
+    "90d": 137,
+    "all": 137
    },
    "totals": {
-    "checks": 414,
-    "available": 414,
-    "ms_sum": 56426,
-    "ms_n": 414,
+    "checks": 415,
+    "available": 415,
+    "ms_sum": 56722,
+    "ms_n": 415,
     "first": 1794057256
    },
    "incident": null
@@ -335,8 +335,8 @@
    "url": "https://servicepage.stuxapis.net/",
    "status": "up",
    "code": 200,
-   "ms": 35,
-   "checked_at": 1795314699,
+   "ms": 145,
+   "checked_at": 1795314999,
    "last_change": {
     "at": 1794057256,
     "from": null,
@@ -357,10 +357,10 @@
     "all": 137
    },
    "totals": {
-    "checks": 414,
-    "available": 414,
-    "ms_sum": 56555,
-    "ms_n": 414,
+    "checks": 415,
+    "available": 415,
+    "ms_sum": 56700,
+    "ms_n": 415,
     "first": 1794057256
    },
    "incident": null
@@ -371,8 +371,8 @@
    "url": "https://stuxapis.github.io/",
    "status": "up",
    "code": 200,
-   "ms": 35,
-   "checked_at": 1795314700,
+   "ms": 106,
+   "checked_at": 1795315000,
    "last_change": {
     "at": 1794057256,
     "from": null,
@@ -386,17 +386,17 @@
     "all": 100.0
    },
    "avg_ms": {
-    "24h": 68,
+    "24h": 69,
     "7d": 88,
     "30d": 95,
     "90d": 95,
     "all": 95
    },
    "totals": {
-    "checks": 414,
-    "available": 414,
-    "ms_sum": 39473,
-    "ms_n": 414,
+    "checks": 415,
+    "available": 415,
+    "ms_sum": 39579,
+    "ms_n": 415,
     "first": 1794057256
    },
    "incident": null
@@ -407,8 +407,8 @@
    "url": "https://global.media.stuxapis.net/icon.png",
    "status": "up",
    "code": 200,
-   "ms": 84,
-   "checked_at": 1795314700,
+   "ms": 184,
+   "checked_at": 1795315000,
    "last_change": {
     "at": 1790864334,
     "from": null,
@@ -429,10 +429,10 @@
     "all": 257
    },
    "totals": {
-    "checks": 1764,
-    "available": 1764,
-    "ms_sum": 454222,
-    "ms_n": 1764,
+    "checks": 1765,
+    "available": 1765,
+    "ms_sum": 454406,
+    "ms_n": 1765,
     "first": 1790864334
    },
    "incident": null
@@ -440,7 +440,7 @@
  ],
  "cadence": {
   "window": 86400,
-  "checks": 27,
-  "every": 3307
+  "checks": 28,
+  "every": 3196
  }
 }
