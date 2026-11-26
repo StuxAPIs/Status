@@ -18,22 +18,22 @@ Updated by GitHup whenever the status page is rebuilt (hourly, and when a status
 <!-- githup:start -->
 <!-- This table is written by GitHup (https://github.com/StuxGroup/GitHup); edits here are overwritten. -->
 
-**Partial outage** · [Live status page](https://status.stuxapis.net/)
+**All systems operational** · [Live status page](https://status.stuxapis.net/)
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| StuxAPIs | [StuxAPIs](https://stuxapis.net/) | Up | 100.00% | 97.64% | 98.40% | 962 ms |
-| StuxAPIs | [StuxAPIs Services](https://services.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 143 ms |
-| StuxAPIs | [SeasonalOverlaysLibrary](https://seasonaloverlayslibrary.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 142 ms |
-| StuxAPIs | [Kittens](https://kittens.stuxapis.net/) | **Down** | 66.66% | 95.29% | 99.07% | 218 ms |
-| StuxAPIs | [SecretGen](https://secretgen.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 353 ms |
-| StuxAPIs | [FlashView](https://flashview.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 149 ms |
-| StuxAPIs | [GithubStats](https://githubstats.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 290 ms |
-| Templates | [StuxAPIs Soonpage](https://soonpage.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 140 ms |
-| Templates | [StuxAPIs Maintenancepage](https://maintenancepage.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 113 ms |
-| Templates | [StuxAPIs Servicepage](https://servicepage.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 123 ms |
-| Templates | [StuxAPIs GitHub Pages Redirect](https://stuxapis.github.io/) | Up | 100.00% | 100.00% | 100.00% | 84 ms |
-| Shared | [StuxAPIs Media CDN](https://global.media.stuxapis.net/icon.png) | Up | 100.00% | 100.00% | 100.00% | 166 ms |
+| StuxAPIs | [StuxAPIs](https://stuxapis.net/) | Up | 100.00% | 97.59% | 98.42% | 323 ms |
+| StuxAPIs | [StuxAPIs Services](https://services.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 156 ms |
+| StuxAPIs | [SeasonalOverlaysLibrary](https://seasonaloverlayslibrary.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 152 ms |
+| StuxAPIs | [Kittens](https://kittens.stuxapis.net/) | Up | 50.00% | 92.77% | 98.60% | 281 ms |
+| StuxAPIs | [SecretGen](https://secretgen.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 354 ms |
+| StuxAPIs | [FlashView](https://flashview.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 158 ms |
+| StuxAPIs | [GithubStats](https://githubstats.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 272 ms |
+| Templates | [StuxAPIs Soonpage](https://soonpage.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 138 ms |
+| Templates | [StuxAPIs Maintenancepage](https://maintenancepage.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 116 ms |
+| Templates | [StuxAPIs Servicepage](https://servicepage.stuxapis.net/) | Up | 100.00% | 100.00% | 100.00% | 133 ms |
+| Templates | [StuxAPIs GitHub Pages Redirect](https://stuxapis.github.io/) | Up | 100.00% | 100.00% | 100.00% | 87 ms |
+| Shared | [StuxAPIs Media CDN](https://global.media.stuxapis.net/icon.png) | Up | 100.00% | 100.00% | 100.00% | 174 ms |
 <!-- githup:end -->
 
 ## What's monitored
